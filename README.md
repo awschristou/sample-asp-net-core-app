@@ -1,3 +1,3 @@
-# SAMPLE .NET Core APP
+# SAMPLE ASP.NET Core APP
 
-Sample .NET Core App, produced from VS 2017
+Sample ASP.NET Core App, produced from VS 2017
